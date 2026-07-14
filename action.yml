@@ -4,7 +4,7 @@ description: "A GitHub Action to generate a podcast feed from a list of episodes
 
 runs:
   using: "docker"
-  image: "Dockerfile"
+  image: "DockerFile"
 
 branding:
   icon: "git-branch"
